@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.company;
+=======
+
+>>>>>>> 482964d4fc0d769128b7958ebd240164655edced
 
 import java.util.Scanner;
 import java.lang.Math;
