@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/polymorphism-21491/src"/>
+	<classpathentry kind="src" path="/polymorphism-21491/Test"/>
+	<classpathentry kind="lib" path="/polymorphism-21491/lib/junit-jupiter-5.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
