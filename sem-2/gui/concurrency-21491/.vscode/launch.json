@@ -1,0 +1,70 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MarketTest",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.hometask.MarketTest",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Synchr",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.Synchr",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Author",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.Author",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.hometask.Main",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-NewTimer<concurrency-21491>",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.NewTimer",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Quiz<concurrency-21491>",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.Quiz",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Timer<concurrency-21491>",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.Timer",
+      "projectName": "concurrency-21491"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-NewTimer<concurrency-21491>",
+      "request": "launch",
+      "mainClass": "com.bbrodskyi.concurrency.NewTimer",
+      "projectName": "concurrency-21491"
+    }
+  ]
+}
