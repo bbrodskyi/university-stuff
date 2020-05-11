@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2072cf4b-6660-46e4-b1f8-49a2d4312a07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/company/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/company/CircleTest.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +23,10 @@
   </component>
   <component name="ProjectId" id="1ZnjIITbgzFIsf6JSMMlvxKwKog" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -33,6 +37,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -44,18 +49,6 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.All in polymorphism-21491">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -111,8 +104,8 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.All in polymorphism-21491" />
-      <item itemvalue="JUnit.MainTest" />
       <item itemvalue="JUnit.MainTest (1)" />
+      <item itemvalue="JUnit.MainTest" />
     </list>
     <recent_temporary>
       <list>
@@ -144,5 +137,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="533" key="SettingsEditor" timestamp="1587322421667">
+      <screen x="0" y="23" width="3794" height="2137" />
+    </state>
+    <state x="402" y="533" key="SettingsEditor/0.23.3794.2137@0.23.3794.2137" timestamp="1587322421667" />
+    <state x="1805" y="627" key="new project wizard" timestamp="1587323982784">
+      <screen x="0" y="23" width="3794" height="2137" />
+    </state>
+    <state x="1805" y="627" key="new project wizard/0.23.3794.2137@0.23.3794.2137" timestamp="1587323982784" />
   </component>
 </project>
