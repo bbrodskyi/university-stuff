@@ -6,8 +6,4 @@ interface GeometricPrimitive {
 
     public double getArea();
 
-    public void serialize();
-
-    public GeometricPrimitive deserialize();
-
 }
