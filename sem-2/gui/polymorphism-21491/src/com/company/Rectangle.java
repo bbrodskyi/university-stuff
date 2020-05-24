@@ -1,10 +1,10 @@
 package com.company;
 
-public class Rectangle extends GeometricPrimitive {
+public class Rectangle implements GeometricPrimitive {
     private double h;
     private double l;
 
-    public Rectangle (double h, double l) {
+    public Rectangle(double h, double l) {
         this.h = h;
         this.l = l;
     }

@@ -1,11 +1,11 @@
 package com.company;
 
-public class Parallelogram extends GeometricPrimitive {
+public class Parallelogram implements GeometricPrimitive {
     private double a;
     private double b;
     private double h;
 
-    public Parallelogram (double a, double b, double h) {
+    public Parallelogram(double a, double b, double h) {
         this.a = a;
         this.b = b;
         this.h = h;

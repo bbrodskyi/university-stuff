@@ -1,6 +1,6 @@
 package com.company;
 
-public class Triangle extends GeometricPrimitive {
+public class Triangle implements GeometricPrimitive {
     private double a;
     private double b;
     private double c;
@@ -15,7 +15,7 @@ public class Triangle extends GeometricPrimitive {
 
     @Override
     public double getPerimeter() {
-        return a + b +c;
+        return a + b + c;
     }
 
     @Override

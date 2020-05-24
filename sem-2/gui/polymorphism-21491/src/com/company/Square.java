@@ -1,9 +1,9 @@
 package com.company;
 
-public class Square extends GeometricPrimitive {
+public class Square implements GeometricPrimitive {
     private double a;
 
-    public Square (double a) {
+    public Square(double a) {
         this.a = a;
     }
 

@@ -1,9 +1,9 @@
 package com.company;
 
-public class Circle extends GeometricPrimitive {
+public class Circle implements GeometricPrimitive {
     private double r;
 
-    public Circle (double r) {
+    public Circle(double r) {
         this.r = r;
     }
 

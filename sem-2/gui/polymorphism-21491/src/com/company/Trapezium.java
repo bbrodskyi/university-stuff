@@ -1,13 +1,13 @@
 package com.company;
 
-public class Trapezium extends GeometricPrimitive {
+public class Trapezium implements GeometricPrimitive {
     private double a;
     private double b;
     private double c;
     private double d;
     private double h;
 
-    public Trapezium (double a, double b, double c, double d, double h) {
+    public Trapezium(double a, double b, double c, double d, double h) {
         this.a = a;
         this.b = b;
         this.c = c;
@@ -17,7 +17,7 @@ public class Trapezium extends GeometricPrimitive {
 
     @Override
     public double getPerimeter() {
-        return a + b + c +d;
+        return a + b + c + d;
     }
 
     @Override

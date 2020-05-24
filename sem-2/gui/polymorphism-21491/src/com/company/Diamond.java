@@ -1,10 +1,10 @@
 package com.company;
 
-public class Diamond extends GeometricPrimitive {
+public class Diamond implements GeometricPrimitive {
     private double a;
     private double b;
 
-    public Diamond (double a, double b) {
+    public Diamond(double a, double b) {
         this.a = a;
         this.b = b;
     }
@@ -16,6 +16,6 @@ public class Diamond extends GeometricPrimitive {
 
     @Override
     public double getArea() {
-        return a  * b;
+        return a * b;
     }
 }
