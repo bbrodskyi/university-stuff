@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class Main {
+public class Test {
   public static void main(final String[] args) {
     List<Laptop> myLaptops = new ArrayList<Laptop>();
     myLaptops.add(new Laptop("Apple", "MacBook Pro 13 Core i5 1.4 Touch/2019 2 TB 3"));

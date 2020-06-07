@@ -12,7 +12,7 @@ public class LaptopCollection implements Iterable<Laptop> {
 
   @Override
   public Iterator<Laptop> iterator() {
-    return new LaptopIterator(laptops);
+    return new LaptopIterator(this.laptops);
   }
 
   public static class LaptopIterator implements Iterator<Laptop> {
