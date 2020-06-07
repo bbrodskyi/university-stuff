@@ -1,8 +1,8 @@
 package com.bbrodskyi.innerclass;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
+import java.util.ListIterator;
 
 public class Test {
   public static void main(final String[] args) {
@@ -13,9 +13,14 @@ public class Test {
 
     LaptopCollection myLaptopsCollection = new LaptopCollection(myLaptops);
 
-    Iterator<Laptop> iterator = myLaptopsCollection.iterator();
+    ListIterator<Laptop> iterator = myLaptopsCollection.listIterator();
     while (iterator.hasNext()) {
       Laptop tempLap = iterator.next();
+      System.out.println(tempLap.toString());
+    }
+
+    while (iterator.hasPrevious()) {
+      Laptop tempLap = iterator.previous();
       System.out.println(tempLap.toString());
     }
 
